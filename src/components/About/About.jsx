@@ -1,5 +1,5 @@
 import css from './About.module.css';
-import aboutImage from '../../images/about-1.png';
+import aboutImage from '../../images/about-1.jpg';
 // prettier-ignore
 import { aboutMeDetails, aboutList1, aboutList2, aboutList3, aboutList4 } from '../../data/about';
 
@@ -14,7 +14,7 @@ export const About = () => {
         <img
           className={css.aboutImage}
           src={aboutImage}
-          alt="Juan Dela Cruz"
+          alt="Rey Vincent Leal"
           width="300"
           height="400"
         />

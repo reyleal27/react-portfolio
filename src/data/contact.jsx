@@ -13,9 +13,9 @@ export const contactInfo = [
           color: '#000000',
           fontSize: '20px',
         }}
-        href="tel:+639123456789"
+        href="tel:+639982901133"
       >
-        + 639123456789
+        + 639982901133
       </a>
     ),
   },

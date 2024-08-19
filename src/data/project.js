@@ -4,7 +4,7 @@ import project2 from '../images/project-2.png';
 import project3 from '../images/project-3.png';
 import project4 from '../images/project-4.png';
 import project5 from '../images/project-5.png';
-import project6 from '../images/project-6.png';
+import project6 from '../images/project-6.jpg';
 import project7 from '../images/project-7.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
@@ -14,7 +14,7 @@ export const projects = [
     id: 1,
     src: project1,
     name: 'Web Studio',
-    href: 'https://marventures.github.io/goit-markup-hw-07/',
+    href: 'https://reyleal27.github.io/goit-markup-hw-07/',
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ export const projects = [
     id: 6,
     src: project6,
     name: 'Image Search',
-    href: 'https://github.com/marventures/goit-js-hw-11',
+    href: 'https://reyleal27.github.io/goit-react-hw-03-image-finder/',
   },
   {
     id: 7,

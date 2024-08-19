@@ -30,6 +30,7 @@
   background: var(--SECONDARY);
 }
 
+
 .projectItem::before {
   content: '';
   background: var(--SECONDARY);
@@ -119,4 +120,10 @@
 .projectLink:hover {
   transition: all ease-in-out 0.3s;
   color: var(--DARK);
+}
+
+.img__fluid{
+  background-size: cover;
+  width: 250px;
+  height: 200px;
 }
