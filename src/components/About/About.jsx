@@ -1,7 +1,7 @@
 import css from './About.module.css';
-import aboutImage from '../../images/about-1.jpg';
+import aboutImage from '../../images/profile.jpg';
 // prettier-ignore
-import { aboutMeDetails, aboutList1, aboutList2, aboutList3, aboutList4 } from '../../data/about';
+import { aboutMeDetails, aboutList1, aboutList2, aboutList3 } from '../../data/about';
 
 export const About = () => {
   const { position, description } = aboutMeDetails;
@@ -69,7 +69,7 @@ export const About = () => {
         </div>
 
         {/* Work Experience */}
-        <div>
+        {/* <div>
           <h3 className={css.bottomPortionTitle}>Work Experience</h3>
           <ul>
             {aboutList4.map(({ id, company, year, position }) => (
@@ -81,7 +81,7 @@ export const About = () => {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
       </div>
     </div>
   );

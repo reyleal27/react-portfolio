@@ -17,6 +17,11 @@
   }
 }
 
+.homeImage{
+  border-radius: 50%;
+  
+}
+
 .homeDetails {
   display: flex;
   flex-direction: column;

@@ -1,9 +1,8 @@
 export const aboutMeDetails = {
   position: 'Junior Full Stack Developer',
   description:
-    "Greetings! I'm a driven developer with a passion for crafting immersive digital experiences. My expertise lies in HTML, CSS, JavaScript, React, and Node.js. Collaborating within teams has equipped me with practical experience, enhancing my ability to seamlessly integrate my skills into diverse projects",
-  
-};
+    "Greetings! I’m a passionate Junior Fullstack Developer with a unique background in the maritime industry. Transitioning to web development has been both challenging and rewarding, allowing me to bring a fresh perspective and diverse skill set to my projects. With expertise in the MERN stack and real-time communication using Socket.io, I’ve built a strong foundation in creating dynamic and responsive web applications. My previous experience has honed my problem-solving skills, adaptability, and ability to work under pressure. I’m excited to continue growing in this field and contribute to innovative projects. Let’s connect and create something amazing together!",
+}
 
 export const aboutList1 = [
   {
@@ -27,12 +26,12 @@ export const aboutList2 = [
   {
     id: 1,
     description: 'Skills',
-    value: 'HTML, CSS, SASS, JavaScript, React, Node',
+    value: 'HTML, CSS, JavaScript, React, Node, Express, Docker, JWT,Socket.io',
   },
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Computer Games, ',
+    value: 'Mobile Games,Aquaculture',
   },
   {
     id: 3,
@@ -54,19 +53,25 @@ export const aboutList3 = [
   //   year: '2013',
   //   course: 'High School',
   // },
-  {
-    id: 3,
-    school: 'Maritime Academy of Asia and the Pacific',
-    year: '2017',
-    course: 'Bachelor of Science in Marine Transportation',
+  // {
+  //   id: 3,
+  //   school: 'Maritime Academy of Asia and the Pacific',
+  //   year: '2017',
+  //   course: 'Bachelor of Science in Marine Transportation',
+  // },
+   {
+    id: 1,
+    school: 'GoIT Bootcamp',
+    year: '2024',
+    course: 'Full Stack Developer',
   },
 ]
 ;
-export const aboutList4 = [
-  {
-    id: 1,
-    company: 'GoIT Bootcamp',
-    year: '2024',
-    position: 'Full Stack Developer',
-  },
-];
+// export const aboutList4 = [
+//   {
+//     id: 1,
+//     company: 'GoIT Bootcamp',
+//     year: '2024',
+//     position: 'Full Stack Developer',
+//   },
+// ];

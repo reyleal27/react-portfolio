@@ -13,6 +13,10 @@
   }
 }
 
+.aboutImage{
+  border-radius: 50%;
+}
+
 .topPortion {
   display: flex;
   flex-direction: column;
@@ -95,6 +99,7 @@
 }
 
 .bottomPortionTitle {
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
+  width: 100%;
   color: var(--PRIMARY);
 }
